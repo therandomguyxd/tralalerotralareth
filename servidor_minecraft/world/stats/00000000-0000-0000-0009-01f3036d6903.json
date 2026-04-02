@@ -1,0 +1,27 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:dirt": 16,
+      "minecraft:snowball": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 5575,
+      "minecraft:walk_one_cm": 1007,
+      "minecraft:leave_game": 2,
+      "minecraft:walk_under_water_one_cm": 1653,
+      "minecraft:damage_taken": 100,
+      "minecraft:play_time": 5575,
+      "minecraft:damage_dealt": 10,
+      "minecraft:jump": 12,
+      "minecraft:time_since_death": 5575,
+      "minecraft:sprint_one_cm": 251,
+      "minecraft:swim_one_cm": 684,
+      "minecraft:total_world_time": 5575,
+      "minecraft:fly_one_cm": 453,
+      "minecraft:walk_on_water_one_cm": 2807,
+      "minecraft:crouch_one_cm": 116,
+      "minecraft:sneak_time": 1244
+    }
+  },
+  "DataVersion": 4671
+}
